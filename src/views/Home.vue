@@ -25,10 +25,10 @@ import Logo from "../assets/logo.vue"
         </h3>
         
         <div class="flex space-x-10 mt-4">
-            <a href="https://www.instagram.com/" target="_blank" class="w-8 h-8">
+            <a href="https://instagram.com/argjudo" target="_blank" class="w-8 h-8">
                 <Instagram class="fill-black hover:fill-red-500 transition-all duration-200"/>
             </a>
-            <a href="https://www.facebook.com/" target="_blank" class="w-8 h-8">
+            <a href="https://www.facebook.com/ARGJudo" target="_blank" class="w-8 h-8">
                 <Facebook class="fill-black hover:fill-red-500 transition-all duration-200"/>
             </a>
             <a href="https://twitter.com/ARG_Judo" target="_blank" class="w-8 h-8">
